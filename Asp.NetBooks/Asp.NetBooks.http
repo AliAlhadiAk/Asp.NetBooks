@@ -1,0 +1,6 @@
+@Asp.NetBooks_HostAddress = http://localhost:5192
+
+GET {{Asp.NetBooks_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
